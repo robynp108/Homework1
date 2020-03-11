@@ -4,6 +4,11 @@
 
 !! brief description
 
+## Completed
+!! list changes
+
+!! Image (screenshot of website) end of page
+
 
 ## User Story
 
@@ -37,3 +42,5 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
   - Added title, name of company, Horiseon.
 ```
+## Screenshot
+![Screenshot of the project] (url of the image)
