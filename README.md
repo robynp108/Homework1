@@ -1,4 +1,10 @@
 # Homework1
+# 01 Marketing SEO Refactor
+> Refactor of a marketing page to be more SEO friendly
+
+!! brief description
+
+
 ## User Story
 
 ```
