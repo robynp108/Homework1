@@ -49,4 +49,4 @@ THEN I find a concise, descriptive title
 
 ```
 ## Screenshot
-![Screenshot of the project] (url of the image)
+![image](https://github.com/robynp108/Homework1/blob/master/Screenshot.png)
